@@ -4,7 +4,7 @@
 
 [English](README-EN.md)|中文
 
-> [!IMPORTANT]
+> [!IMPORTANT]\
 >
 > 由于原有的Telegraph API接口被官方关闭，需要将上传渠道切换至Telegram Channel，请按照文档中的部署要求设置`TG_Bot_Token`和`TG_Chat_ID`，否则将无法正常使用上传功能。
 
